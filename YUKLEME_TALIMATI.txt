@@ -1,0 +1,27 @@
+MAMİR PLAY – SEO DOSYALARINI GITHUB'A YÜKLEME REHBERİ
+
+Bu paket 7 dosya içerir:
+- index.html  (mevcut site korunarak SEO başlığı ve tanıtım bağlantıları eklendi)
+- sozyolu.html
+- isim-sehir-indir.html
+- ilim-yolu-dhbt.html
+- ilim-yolu-mbsts.html
+- sitemap.xml  (önceki site haritasının güncellenmiş hâli)
+- robots.txt
+
+ADIMLAR
+1. GitHub: github.com/mamirplay/mamirplay.github.io
+2. Önce mevcut index.html dosyasının yedeğini bilgisayarınıza/telefonunuza alın.
+3. Yeni dört tanıtım HTML dosyasını ve robots.txt dosyasını ana klasöre yükleyin.
+4. Güncel sitemap.xml dosyasını, aynı isimli eski sitemap.xml yerine yükleyin.
+5. En son güncellenmiş index.html dosyasını ana klasördeki mevcut index.html yerine yükleyin (aynı ad, aynı klasör).
+6. Var olan yonetim.html, mamir-config.js, google doğrulama HTML dosyası, isim-sehir.html, APK dosyaları gibi hiçbir dosyayı silmeyin.
+7. Yayınlama tamamlandıktan sonra ana sayfayı ve dört tanıtım sayfasını açıp kontrol edin.
+8. Google Search Console > Site Haritaları altında sitemap.xml durumunu takip edin. Yeni sayfalar için URL Denetimi > Dizine eklenmesini isteyi kullanabilirsiniz.
+
+NOTLAR
+- SözYolu için doğrulanmış doğrudan APK adresimiz yok. Bu sayfada sadece MAMİR PLAY'in Uygulamalar bölümüne bağlantı var; mevcut Drive bağlantısı değişmedi.
+- Bu paket sunucuya kendiliğinden yüklenmez. GitHub'a yüklemeden Google'da yeni sayfalar görünmez.
+- GitHub'a ZIP dosyasını olduğu gibi yüklemeyin. ZIP'i önce açıp içindeki dosyaları yükleyin.
+- Arama motorlarında üst sıralarda görünme garantisi yoktur.
+- 2026-10-14 tarihli son mevcut ana sayfa taslağını esas aldık; yayın öncesi canlı repo ile dosyanın güncelliğini karşılaştırın.
